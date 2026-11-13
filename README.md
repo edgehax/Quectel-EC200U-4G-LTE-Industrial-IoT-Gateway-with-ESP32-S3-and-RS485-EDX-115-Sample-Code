@@ -2,6 +2,10 @@
 
 Quectel EC200U 4G/LTE Industrial IoT Gateway with ESP32 S3 and RS485 EDX-115 Sample Code to test key functionality of the board.
 
+[![Datasheet](https://img.shields.io/badge/Datasheet-Download-2ea44f?style=for-the-badge)](https://edgehax.com/wp-content/uploads/2026/11/Quectel-EC200U-4G-LTE-GNSS-Industrial-Gateway-EDX-115-brochure.pdf)
+
+[![Product Page - EDX115](https://img.shields.io/badge/Shop-EDX115-blue?style=for-the-badge)](https://edgehax.com/product/quectel-ec200u-4g-industrial-iot-gateway-with-esp32-s3-rs485/)
+
 <table>
   <!-- Row 1: Image LEFT, Content RIGHT -->
   <tr>
@@ -75,6 +79,4 @@ Quectel EC200U 4G/LTE Industrial IoT Gateway with ESP32 S3 and RS485 EDX-115 Sam
     </td>
   </tr>
 </table>
-
-
 
